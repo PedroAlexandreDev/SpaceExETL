@@ -1,0 +1,25 @@
+[2025-05-09 14:33:43,462] {processor.py:153} INFO - Started process (PID=61332) to work on /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:33:43,462] {processor.py:641} INFO - Processing file /home/pedro/Documentos/airflow/dags/spaceExETL.py for tasks to queue
+[2025-05-09 14:33:43,463] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,462] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:33:43,470] {processor.py:651} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:33:43,515] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,515] {manager.py:508} INFO - Created Permission View: can delete on DAG:hello_world
+[2025-05-09 14:33:43,523] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,523] {manager.py:508} INFO - Created Permission View: can read on DAG:hello_world
+[2025-05-09 14:33:43,529] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,529] {manager.py:508} INFO - Created Permission View: can edit on DAG:hello_world
+[2025-05-09 14:33:43,530] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,529] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-09 14:33:43,535] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,535] {dag.py:2398} INFO - Creating ORM DAG for hello_world
+[2025-05-09 14:33:43,541] {logging_mixin.py:115} INFO - [2025-05-09 14:33:43,541] {dag.py:2927} INFO - Setting next_dagrun for hello_world to 2023-01-01T00:00:00+00:00, run_after=2023-01-01T00:00:00+00:00
+[2025-05-09 14:33:43,551] {processor.py:161} INFO - Processing /home/pedro/Documentos/airflow/dags/spaceExETL.py took 0.091 seconds
+[2025-05-09 14:34:18,364] {processor.py:153} INFO - Started process (PID=62012) to work on /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:18,377] {processor.py:641} INFO - Processing file /home/pedro/Documentos/airflow/dags/spaceExETL.py for tasks to queue
+[2025-05-09 14:34:18,377] {logging_mixin.py:115} INFO - [2025-05-09 14:34:18,377] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:18,382] {processor.py:651} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:18,393] {logging_mixin.py:115} INFO - [2025-05-09 14:34:18,393] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-09 14:34:18,407] {logging_mixin.py:115} INFO - [2025-05-09 14:34:18,407] {dag.py:2927} INFO - Setting next_dagrun for hello_world to 2023-01-01T00:00:00+00:00, run_after=2023-01-01T00:00:00+00:00
+[2025-05-09 14:34:18,416] {processor.py:161} INFO - Processing /home/pedro/Documentos/airflow/dags/spaceExETL.py took 0.054 seconds
+[2025-05-09 14:34:48,619] {processor.py:153} INFO - Started process (PID=62391) to work on /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:48,632] {processor.py:641} INFO - Processing file /home/pedro/Documentos/airflow/dags/spaceExETL.py for tasks to queue
+[2025-05-09 14:34:48,632] {logging_mixin.py:115} INFO - [2025-05-09 14:34:48,632] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:48,637] {processor.py:651} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/pedro/Documentos/airflow/dags/spaceExETL.py
+[2025-05-09 14:34:48,649] {logging_mixin.py:115} INFO - [2025-05-09 14:34:48,649] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-09 14:34:48,662] {logging_mixin.py:115} INFO - [2025-05-09 14:34:48,662] {dag.py:2927} INFO - Setting next_dagrun for hello_world to 2023-01-01T00:00:00+00:00, run_after=2023-01-01T00:00:00+00:00
+[2025-05-09 14:34:48,671] {processor.py:161} INFO - Processing /home/pedro/Documentos/airflow/dags/spaceExETL.py took 0.053 seconds
