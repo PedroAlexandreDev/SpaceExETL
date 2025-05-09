@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+
+# Virtual environment
+venv/
+.env
+
+# Airflow
+.airflow/
+airflow.db
+logs/
+airflow-webserver.pid
+airflow.cfg
+standalone_admin_password.txt
+webserver_config.py
